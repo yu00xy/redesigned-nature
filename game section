@@ -1,0 +1,49 @@
+<!-- Games Section -->
+<section class="section" id="games">
+  <h2>Interactive Games</h2>
+  <p>
+    Add fun, educational games here to engage kids while teaching them about
+    environmental conservation!
+  </p>
+  <div class="games-container">
+    <div class="game">
+      <iframe
+        src="[https://ellisonleao.github.io/clumsy-bird/]"
+        frameborder="0"
+        allowfullscreen
+      ></iframe>
+      <a
+        href="[https://ellisonleao.github.io/clumsy-bird/]"
+        class="game-btn"
+        target="_blank"
+        >Play Game 1</a
+      >
+    </div>
+    <div class="game">
+      <iframe
+        src="[https://codeincomplete.com/games/racer/]]"
+        frameborder="0"
+        allowfullscreen
+      ></iframe>
+      <a
+        href="[https://codeincomplete.com/games/racer/]"
+        class="game-btn"
+        target="_blank"
+        >Play Game 2</a
+      >
+    </div>
+    <div class="game">
+      <iframe
+        src="[https://wwwtyro.github.io/Astray/]"
+        frameborder="0"
+        allowfullscreen
+      ></iframe>
+      <a
+        href="[https://wwwtyro.github.io/Astray/]"
+        class="game-btn"
+        target="_blank"
+        >Play Game 3</a
+      >
+    </div>
+  </div>
+</section>
